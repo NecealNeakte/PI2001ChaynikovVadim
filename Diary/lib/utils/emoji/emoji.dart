@@ -1,0 +1,2 @@
+const lockEmoji = "🔒";
+const pill = "💊";
